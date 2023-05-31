@@ -21,7 +21,8 @@ the assets folder. The file to save the program will also be located inside the 
 * The program requires java.util.Scanner, java.util.Arrays, and java.util.ArrayList
 
 ### Executing program
-
+* Note: Executing will vary for everyone   
+   
 * scioer start and scioer shell
 * cd to folder A2
 * To build the program: gradle build
